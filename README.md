@@ -132,7 +132,7 @@ tic-tac-toe/
 
 ## 📌 Author
 
-**Shailen Singh Rajput**
+**Shailendra Singh Rajput**
 
 ---
 
